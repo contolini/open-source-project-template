@@ -15,6 +15,7 @@
 
 # Project Title
 
+<!-- start-description -->
 **Description**:  Put a meaningful, short, plain-language description of what
 this project is trying to accomplish and why it matters.
 
@@ -28,7 +29,7 @@ Other things to include:
 **Screenshot**: If the software has visual components, place a screenshot after the description; e.g.,
 
 ![](https://raw.githubusercontent.com/cfpb/open-source-project-template/master/screenshot.png)
-
+<!-- end-description -->
 
 ## How to get this running or how to use it
 
